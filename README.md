@@ -95,7 +95,7 @@ Encerrando o programa. Ate logo!
 
 ## 👩‍💻 Autora
 
-**Ana Caroline Santos Queiroz** · [GitHub](https://github.com/anaqueiroz08) · [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN/)
+**Ana Caroline Santos Queiroz** · [GitHub](https://github.com/anaqueiroz08) · [LinkedIn](https://www.linkedin.com/in/anaqueiroz04/)
 
 ## 📄 Licença
 
